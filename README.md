@@ -1,3 +1,6 @@
+# ruby_basic_crud
+Basic CRUD operations for a rails app
+
 # README
 
 This README would normally document whatever steps are necessary to get the
